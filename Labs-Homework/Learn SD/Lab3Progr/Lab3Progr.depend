@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652662455 source:d:\faculta\sd\learn sd\lab3progr\main.cpp
+	<iostream>
+	<fstream>
+	<unordered_map>
+

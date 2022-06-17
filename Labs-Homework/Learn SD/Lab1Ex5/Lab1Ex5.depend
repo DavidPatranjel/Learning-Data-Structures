@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652618838 source:d:\faculta\sd\learn sd\lab1ex5\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

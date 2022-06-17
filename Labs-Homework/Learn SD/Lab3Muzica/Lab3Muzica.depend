@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653512911 source:d:\faculta\sd\learn sd\lab3muzica\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<unordered_map>
+

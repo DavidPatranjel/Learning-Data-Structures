@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652659960 source:d:\faculta\sd\learn sd\lab5bitone\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

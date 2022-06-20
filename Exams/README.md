@@ -1,0 +1,2 @@
+# Learning-Data-Structures - EXAMS
+All these exam subjects were given at the Faculty of Mathematics and Computer Science at the University of Bucharest during the Data Structures Course. These exam subjects were all written by Guillaume Ducoffe, PhD
